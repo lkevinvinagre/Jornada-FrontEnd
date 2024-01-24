@@ -34,7 +34,13 @@
 }
 
 .card {
-  padding: 2em;
+  padding: 4rem;
+  border: 0.1rem solid;
+  border-radius:1rem;
+  box-shadow: 0.5rem 0.5rem 0rem 0rem white ;
+}
+.card > img {
+  border-radius: 1rem;
 }
 
 .read-the-docs {
