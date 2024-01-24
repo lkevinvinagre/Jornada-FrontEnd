@@ -1,0 +1,15 @@
+version: '3.3'
+
+services:
+  ocean-jornada-frontend:
+    build: ./ocean-jornada-frontend
+    container_name: jornada-frontend
+    restart: always
+    ports:
+      - 3000:3000
+    networks:
+      - jornada-network
+
+networks:
+  jornada-network:
+     driver: bridge

@@ -1,0 +1,27 @@
+#init ocean-jornada-frontend
+# Logs
+ocean-jornada-frontend/logs
+ocean-jornada-frontend/*.log
+ocean-jornada-frontend/npm-debug.log*
+ocean-jornada-frontend/yarn-debug.log*
+ocean-jornada-frontend/yarn-error.log*
+ocean-jornada-frontend/pnpm-debug.log*
+ocean-jornada-frontend/lerna-debug.log*
+
+ocean-jornada-frontend/node_modules
+ocean-jornada-frontend/dist
+ocean-jornada-frontend/dist-ssr
+ocean-jornada-frontend/*.local
+
+#end ocean-jornada-frontend
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
