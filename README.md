@@ -2,6 +2,10 @@
 
 Curso de Desenvolvimento Front End -SAMSUNG OCEAN
 
+Miro do projeto:
+
+<https://miro.com/app/board/uXjVN1loAq0=/>
+
 Rodar projeto docker:
 
     ->docker-compose up -d
