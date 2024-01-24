@@ -17,7 +17,7 @@ Rodar front manualmente pela primeira vez:
     -> npm install
     -> npm run dev
 
-<p> :loudspeaker: Desafio da aula 01 :loudspeaker:<br> 
+<p> <h3>:loudspeaker: Desafio da aula 01 :loudspeaker:</h3><br> 
         <h1>status:</h1> Completo :white_check_mark:
 </p>
 <div align="center">
