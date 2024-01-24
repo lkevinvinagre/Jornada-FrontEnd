@@ -17,8 +17,8 @@ Rodar front manualmente pela primeira vez:
     -> npm install
     -> npm run dev
 
-<p> :loudspeaker: Desafio da aula 01 :loudspeaker: 
-        status: Completo :white_check_mark:
+<p> :loudspeaker: Desafio da aula 01 :loudspeaker:<br> 
+        <h1>status:</h1> Completo :white_check_mark:
 </p>
 <div align="center">
 <img src="https://github.com/lkevinvinagre/Jornada-FrontEnd/assets/11666366/0b3b7ac0-1b97-4b62-b3ad-00b6634380bd"/>
