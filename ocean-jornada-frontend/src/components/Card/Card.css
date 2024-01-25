@@ -1,0 +1,14 @@
+.card {
+    padding: 1em;
+    border: 0.1rem solid white;
+    border-radius: 0.6rem;
+    box-shadow: 0.2rem 0.2rem white;
+    text-align: center;
+  }
+  .card > h2 {
+    font-size: 2rem;
+  }
+  
+  .card > img {
+    border-radius: 0.6rem;
+  }
